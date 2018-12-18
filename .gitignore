@@ -1,0 +1,6 @@
+.index/*
+doc/*
+out/*
+target/*
+src/*
+!/src/main/java/com/hzeng/*
