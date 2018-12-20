@@ -1,4 +1,4 @@
-# Crawle
+# Crawl
 
 Simple Web Crawler based Jsoup
 
@@ -8,4 +8,4 @@ setExpan
 
 # index
 
-Index basee lucene
+Index based lucene for setExpan
